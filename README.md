@@ -1,1 +1,2 @@
 # odin-recipes
+nesse ponto aprenderei como fazer uma estrutura básica para um pequeno site de receitas usando apenas HTML, usando links direcionaveis e modelando a forma inicial da página para um melhor espaço de trabalho.
